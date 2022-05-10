@@ -17,7 +17,7 @@ const DataTable = (props) => {
     columns,
     data
   });
-
+  //change
   return (
     <table {...getTableProps()}>
       <thead>
